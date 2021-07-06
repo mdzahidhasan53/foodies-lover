@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 2%;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.heading{
+    color: orangered;
+}
+.half-width{
+    display: flex;
+    width: 100%; 
+    margin-bottom: 100px;
+}
+section img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    width: 700%;
+    
+}
+.person-me img{
+    width: 50%;
+}
+.petro{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
