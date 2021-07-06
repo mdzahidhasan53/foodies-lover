@@ -64,3 +64,18 @@ section img{
 .div-three{
     margin-left: 400px;
 }
+footer{
+    text-align: center;
+    background-color: rgb(6, 49, 54);
+    margin-top: 100px ;
+    width: 100%;
+}
+.little-one{
+    color: rgb(153, 63, 30);
+}
+.little-tow{
+    color: rgb(139, 53, 137);
+}
+footer p{
+    color: white;
+}
