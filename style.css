@@ -49,3 +49,18 @@ section img{
     border-radius: 10%;
     margin-top: 50PX;
 }
+.section-buttom{
+    margin-left: 0;
+    border-radius: 10px;
+    background-color: wheat;
+    width: 100%;
+}
+.div-one{
+    margin-left: 10px;
+}
+.div-two{
+    margin-left: 300px;
+}
+.div-three{
+    margin-left: 400px;
+}
