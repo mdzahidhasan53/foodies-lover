@@ -40,3 +40,12 @@ section img{
 #section-three{
     text-align: center;
 }
+.last-para{
+    text-align: center;
+}
+.section-last{
+    padding-left: 5%;
+    box-shadow: 5px 10px 30px;
+    border-radius: 10%;
+    margin-top: 50PX;
+}
